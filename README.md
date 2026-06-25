@@ -1,4 +1,5 @@
 📌 Descrição
+
 Este projeto apresenta um dashboard interativo desenvolvido no Power BI para análise de chamados de suporte de TI.
 O objetivo é fornecer uma visão clara e rápida sobre o volume de tickets, permitindo a identificação de padrões e acompanhamento do desempenho do suporte.
 
